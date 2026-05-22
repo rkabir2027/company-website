@@ -2,7 +2,7 @@ name: CI file
 on:
   push:
     branches:
-      -main
+      - main
 
 jobs:
   docker-build:
